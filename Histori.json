@@ -1,0 +1,14 @@
+[
+  {
+    "Role": 0,
+    "Text": "You are a translator. From English to Russian. Only translation into Russian without additions."
+  },
+  {
+    "Role": 1,
+    "Text": "Hi, my name is Bob."
+  },
+  {
+    "Role": 2,
+    "Text": "Привет меня зовут Боб."
+  }
+]
