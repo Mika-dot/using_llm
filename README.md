@@ -1,2 +1,4 @@
 # using_llm
-Using LLM models in different situations for different
+
+Системные промты на удаления ограничений и/или определенных задачь.
+* DAN - удаляет ограничения неросети
