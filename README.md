@@ -1,6 +1,7 @@
 # using_llm
 Основные моменты. Файл модели с расширением
 > .gguf
+Их можно скачать тут https://huggingface.co/models?library=gguf&sort=trending или с пометкой Text Generation, суть что это должна быть языковая модель.
 
 Файл хранения памяти истории.
 > .json
